@@ -294,7 +294,7 @@ h6 {
 @media (max-width: 768px) {
   /* Different background image for screens up to 768px */
   #hero {
-    background: url("kherosection_mb.jpg") top center;
+    background: url("../img/kherosection_mb.jpg") top center;
     background-size: cover;
   }
 
