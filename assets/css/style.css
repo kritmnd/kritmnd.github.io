@@ -293,8 +293,7 @@ h6 {
 
 @media (max-width: 768px) {
   #hero {
-    background: url("../img/Kherosection.jpg") top right;
-    background-size: contain;
+    background-position: top right;
   }
 
   #hero h1 {
